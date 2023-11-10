@@ -1,0 +1,368 @@
+// common
+1001:Creation time
+1002:Export success
+1003:Get success
+1004:Operation failed
+1005:Operation success
+1006:parameter missing
+1007:search success
+1008:pass
+1009:rejected
+1010:pending 
+1011:unknow
+1012:delete success
+1013:post query list
+1014:Editing success
+1015:Creation failed
+1016:Creation success
+1017:No permission
+1018:delete failed
+1019:Enabled
+1020:Offline
+1021:Delete
+1022:Dissolution
+1023:Failed
+1024:Success
+1025:Male
+1026:Female
+1027:Secret
+1028:Not fill in yet
+1029:
+
+// blog
+2001:Post ID
+2002:User ID
+2003:User nickname
+2004:Post pictures
+2005:Post content 
+2006:Likes
+2007:Comments
+2008:Repost
+2009:pending review
+2010:Post list
+2011:Please choose Post 
+2012:Please fill in the reason of block
+2013:Your post is not approved for review
+2014:Pending review
+2015:Approval
+2016:Review failed
+2017:Blocked
+2018:Comment ID
+2019:The post ID
+2020:User ID
+2021:User nickname
+2022:Comment 
+2023:Review status
+2024:Comment list
+2025:Not reviewed
+2026:Reviewed
+2027:Your comment is not approved for review
+
+// cs
+3001:The wrong customer service or user is specified
+3002:UID is incorrect
+3003:request failed
+3004:request failed
+
+// live
+4001:Anchor ID
+4002:Live title
+4003:Anchor nickname
+4004:Coversheet address
+4005:Push address
+4006:Pull address
+4007:Broadcast time
+4008:Number of viewers
+4009:Live list
+4010:Record ID
+4011:User ID
+4012:User nickname
+4013:Pending review 
+4014:Upload time
+4015:Anchor list
+4016:Record ID is incorrect
+4017:Unsubmitted
+4018:Review failed
+4019:Real name
+4020:Real name list
+4021:Pending review type is incorrect
+4022:Pending review is incorrect
+4023:The reason cannot be empty
+4024:Your anchor request has been approval
+4025:Anchor request has been approval
+4026:Your anchor request has not been approval
+4027:Your real name request has been approval
+4028:Real name request has been approval
+4029:Your real name request has not been approval
+4030:Room number is incorrect
+4031:Cover ID
+4032:Cover list
+4033:List ID
+4034:Reward income
+4035:Association
+4036:The length of the broadcast
+4037:Anchor revenue list
+4038:Date
+4039:Daily rewards
+4040:Anchor daily rewards
+4041:Disconnect the Live 
+4042:Disconnect request has been send
+4043:Prohibition Live
+4044:Prohibition live message has been send
+4045:Warning 
+4046:Warning message has been send
+
+// login
+5001:Account not exist
+5002:Account or password is incorrect
+5003:This account has been restricted to login, please contact the administrator
+5004:Successful login
+5005:Your login has expired
+5006:Your account has been disabled, please contact the administrator
+5007:Old password is incorrect
+5008:New and old password cannot be same
+5009:Two passwords are inconsistent
+5010:The password was successfully modified. Please log in again.
+5011:Update successfully
+5012:Please fill in the member rake ratio
+5013:Member rake type is wrong
+5014:Please fill in the consumption rake ratio
+5015:Consumption rake ratio type is wrong
+5016:Video ID
+5017:Video title
+5018:Image address
+5019:Video address
+5020:Likes
+5021:Reposts
+5022:Comments
+5023:Status
+5024:PAPA video list
+5025:Your PAPA video review not pass
+5026:Please enter the reason for not passing
+5027:deleted 
+
+// papa
+6001:Gift ID
+6002:Gift icon
+6003:Gift name
+6004:Gift price
+6005:Gift location
+6006:Status
+6007:Gift name cannot be empty
+6008:Gift cost incorrect
+6009:Please upload image
+6010:Please use the correct upload name
+6011:Please fill in correct type
+6012:banner Live banner
+6013:banner Message banner
+6014:Jump link in-app
+6015:H5 Jump link
+6016:All
+6017:Male
+6018:Female
+6019:Banner ID 
+6020:Banner image
+6021:Banner type
+6022:Banner location
+6023:Jump link type
+6024:Jump link address
+6025:Display object
+6026:Banner description
+6027:Modify the banner status
+6028:Ads ID
+6029:Ads title 
+6030:Creatives
+6031:Ad link 
+6032:Expiration link
+6033:Clicks
+6034:Advertiser 
+6035:Please fill in Ad title
+6036:Please upload image or video
+6037:Please fill in Ad link
+6038:Please choose advertiser
+6039:Please upload ad cover 
+6040:Advertiser ID
+6041:Advertiser name
+6042:Advertiser logo 
+6043:Please upload Ad image
+6044:Please fill in advertiser name
+6045:Edit advertiser status
+6046:Advertiser does not exist 
+6047:Delete advertiser successfully
+
+// sociaty
+7001:Please fill in the name of the guild
+7002:please fill in the platform split ratio
+7003:Please fill in the correct president ID
+7004:The president ID has been created or has joined the guild
+7005:Modify the state of the guild
+7006:please fill in the correct platform split ratio
+7007:The anchor has not yet joined guild
+7008:The anchor has not joined the guild or the guild has been dissolved
+7009:Please change the information of the president in the guild.
+7010:Please fill in the correct anchor ID
+7011:The anchor has joined guild
+7012:Please choose the correct guild
+7013:Time
+7014:Guild ID
+7015:Guild name 
+7016:Daily guild total income
+7017:Daily guild actual income
+7018:The guild anchor's daily income
+7019:The guild president daily income
+
+// system
+8001:The role added successfully
+8002:The role added failed
+8003:The role name already exist 
+8004:The current role has been selected by the user and cannot be deleted.
+8005:The role was deleted successfully.
+8006:The phone number format is incorrect
+8007:International area code is required
+8008:One sentence description is required
+8009:Account required 
+8010:Password length 6~20 digits
+8011:Administrator information update succeeded
+8012:Administrator information update failed
+8013:Enabled
+8014:Disabled
+8015:None
+8016:The password format is incorrect.
+8017:Two passwords are inconsistent
+8018:Super administrator
+8019:Super administrator cannot delete
+8020:Super administrator cannot change status
+8021:International area code is incorrect
+8022:Account number already exist
+8023:Account phone number already exist
+8024:This username or mobile number already exists
+8025:Please upload file
+8026:Upload failed
+8027:Please choose payment method
+8028:Payment method type is wrong
+8029:Please select the receiving currency
+8030:Please fill in receiving account 
+8031:Please select the status
+8032:Bank transfer
+8033:Alipay
+8034:WeChat
+8035:Edit
+8036:Add
+8037:Modify
+8038:Please fill in the currency
+8039:Currency character length cannot exceed five digits
+8040:EURC real-time exchange rate
+8041:EURC real-time exchange rate type error
+8042:MSQ real-time exchange rate
+8043:MSQ real-time exchange rate type error
+8044:Please fill in the currency abbreviation
+8045:Currency abbreviation cannot exceed five digits
+8046:Please fill in the full name of the currency
+8047:Please fill in currency type
+8048:Currency type length cannot exceed 20 digits
+8049:The full name of the currency cannot exceed 20 digits
+8050:please fill in the unit 
+8051:Unit length cannot exceed 8 digits
+8052:Please upload image
+8053:Please fill in remarks
+8054:Missing parameters
+8055:Avatar address 
+8056:gender
+8057:age
+8058:nationality
+8059:member 
+8060:Membership level 
+8061:High-up user
+8062:user status 
+8063:Registration time
+8064:User list 
+8065:Certified 
+8066:Not certified 
+8067:Not joined guild
+8068:User not exist 
+8069:Ban reason cannot be empty 
+8070:No nickname
+8071:Avatar list
+8072:Your avatar review has passed
+8073:Your avatar review failed
+8074:Reason for ban
+8075:Type for ban
+8076:Operator
+8077:Block account 
+8078:Block equipment 
+8079:Membership term
+8080:Membership type
+8081:Member list
+8082:User avatar 
+8083:Real-name 
+8084:Two passwords are inconsistent
+8085:Phone number 
+8086:Directly superior
+8087:Number of invitees
+8088:The total number of subordinates
+8089:Subordinate member Top up total income
+8090:Subordinate gift consumption total income
+8091:Subordinate one-to-one consumption total income
+8092:Total revenue 
+8093:User Distribution List
+8094:Directly subordinate
+8095:Level
+8096:Member income 
+8097:Gift consumption income
+8098:One-to-one consumption income
+8099:User Distribution Revenue Details
+
+// common
+9001:Authenticator configuration error
+9002:Hours ago
+9003:minutes ago
+9004:just 
+9005:yesterday
+9006:the day before yesterday
+9007:years ago 
+9008:months ago
+9009:days ago 
+9010:No order was found
+
+// other
+10001:Political
+10002:Cross the yellow
+10003:Be disgusting
+10004:Advertisement
+10005:Others
+10006:Sensitive words
+10007:Founder
+10008:Type
+10009:List of sensitive words
+10010:Please fill in sensitive words
+10011:Please select the type
+10012:Enabled
+10013:deactivated
+10014:Please fill in the channel name
+10015:Please fill in the promotion link
+10016:Please upload the entrance map
+10017:Normal list
+10018:Transaction completed
+10019:Sell order freeze
+10020:Partial transaction
+10021:Withdrawal of documents
+10022:Partial cancellation
+
+//statis
+17001:Date
+17002:Channel ID
+17003:Channel name
+17004:new registration
+17005:total login
+17006:next day login
+17007:seven days login
+17008:paying users
+17009:eurc total recharge
+17010:MSQ total recharge
+17011:Channel data statistics
+
+// money
+18001:参数不能为空
+18002:审核成功
+18003:网络繁忙
+18004:运营未审核通过

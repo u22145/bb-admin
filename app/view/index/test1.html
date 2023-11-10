@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>welcome</title>
+<{if DEVELOPMENT_ENVIRONMENT == true}><link rel="stylesheet" href="<{STATIC_SERVER}>/css/debug.css" /><{/if}>
+<style type="text/css">
+    .diff td {
+        vertical-align: top;
+        white-space: pre;
+        white-space: pre-wrap;
+        font-family: monospace;
+        padding: 3px 10px;
+    }
+    .diff td.diffDeleted {
+        background:#FFE0E0;
+    }
+    .diff td.diffInserted {
+        background:#E0FFE0;
+    }
+</style>
+<script src="/static/js/jquery-1.12.4.min.js"></script>
+<script src="/static/js/layer/layer.js"></script>
+
+</head>
+<body>
+aaa<br />
+<script>
+
+layer.open({
+    type: 1,
+    title: false,
+    area: ['240px', '80px'],
+    content: "<div style='font-size: 14px; padding-top: 3px; border: #ccc 1px solid; border-radius: 2px;'><img src='/static/img/loading.gif' width='100' align='middle' /> 页面加载中 …</div>",
+    closeBtn: 0,
+    shade: 0,
+    scrollbar: false
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,131 @@
+//menu
+100:Authority Management
+110:Role List
+120:Administrator List
+200:User Management
+210:User List
+211:User Details
+212:Recommended User
+213:Unblock and Block
+214:Export User
+220:Member List
+230:Profile List
+240:Blocked User List
+260:User Distribution List
+300:Community Management
+310:Post List
+311:Post Details
+312:Post Review
+313:excel Export Excel
+320:Comment List
+321:Comment Details
+322:Comment Review
+323:excel Export Excel
+400:Papa management
+410:Papa Video List
+411:Papa Review
+412:Export List
+420:Papa Comment List
+421:Papa Comment Details
+500:Live Management
+510:Live List
+520:Anchor Review
+530:Real-name Review
+540:Cover List
+550:Anchor Revenue List
+600:Guild Management
+610:Guild List
+611:Guild Addition
+612:Guild Editing
+613:Guild Status Update
+620:Guild Anchor List
+621:Guild Anchor Addition
+622:Guild Anchor Editing
+623:Kick out from the Guild
+630:Flow List of Guild Benefit 
+631:Flow List of Guild Anchor Benefit
+632:Export the Flow List of Guild Benefit
+700:Funds’ inflow and outflow management
+710:Virtual currency recharge order
+720:Virtual currency extraction order
+730:Legal tender selling order
+740:C2C transaction list
+750:B2C transaction list
+760:Payment method list
+800:Resource management
+810:Banner list
+811:Banner addition
+812:Banner editing
+813:Banner revision status
+814:Banner material upload 
+815:Export Banner list
+820:Present list
+821:Present addition
+822:Present material upload
+823:Present modification
+824:Present status update
+825:Export present list
+826:Gift delete
+830:Advertisement configuration list
+831:Advertisement addition
+832:Advertisement editing
+833:Advertisement status upload
+834:Advertisement material upload
+835:Export advertisement list
+840:Advertiser list
+841:Advertiser addition
+842:Advertiser editing
+843:Advertiser status update
+844:Advertiser material upload
+845:Export advertiser list
+850:Push list
+851:Push addition
+852:Push editing
+860:Price list
+861:Price editing
+870:Announcement list
+880:Exchange rate list
+890:Legal tender configuration
+900:System configuration
+910:Version management
+911:Application version editing
+920:VIP configuration
+921:VIP type editing
+930:Distribution commission allocation
+931:Distribution commission editing
+940:Application authorization
+950:VPN management
+960:Sensitive words
+970:Channel list
+1000:Customer service system
+1010:My task
+1011:Customer service private message list
+1012:Customer service private message details
+1013:Customer service private message sending
+1014:APPID  Obtain APPID
+1020:Message data
+1021:Chat history for docking details
+1022:Obtain docked user list
+1100:Channel management
+1110:Channel list
+1120:Channel data statistics
+1130:Channel daily users
+1140:Channel users detail
+1200: Partner Management
+1210:Partner list
+1220:Data Overview
+1230:settlement record
+1300:Group management
+1310:Group checklist
+1320:Group Statistics
+1400:銀商管理
+1410:銀商清單
+1420:銀商充值
+1430:交易記錄
+1500:數據統計
+1510:每日用戶數據
+1520:用戶數據統計
+1600:廣告渠道管理
+1610:渠道清單
+1620:渠道數據總覽
+1630:渠道每日數據
